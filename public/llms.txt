@@ -1,0 +1,60 @@
+# FrameStory — Generative Engine Optimization Map
+
+> A צילום ותקשורת חזותית business.
+
+---
+
+## Pages
+
+### בית
+https://framestory-dee049c1.zappy5.app
+FrameStory מציעה שירותי צילום מקצועיים לחתונות, אירועים ועסקים. צלם אירועים מקצועי בישראל עם ניסיון בתקשורת חזותית.
+
+### שירותים
+https://framestory-dee049c1.zappy5.app/services
+FrameStory מציעה שירותי צילום מקצועיים: חתונות, אירועים, צילום עסקי ומשפחתי. צלם אירועים מקצועי בישראל במחירים הוגנים.
+
+### אודות
+https://framestory-dee049c1.zappy5.app/about
+FrameStory - צלם אירועים מקצועי בישראל עם תשוקה לתקשורת חזותית. למדו על הצוות, הגישה והערכים שלנו בצילום מקצועי.
+
+### צור קשר
+https://framestory-dee049c1.zappy5.app/contact
+צרו קשר עם FrameStory - צלם אירועים מקצועי בישראל. נשמח לשמוע על הפרויקט שלכם ולספר את הסיפור שלכם בצילום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://framestory-dee049c1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://framestory-dee049c1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://framestory-dee049c1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FrameStory
+FrameStory is a business in the צילום ותקשורת חזותית industry.
+
+## Target Audience
+- מתכנני חתונות
+- מפיקי אירועים
+- בעלי עסקים קטנים
+- לקוחות לצילום משפחתי
+
+## Industry
+צילום ותקשורת חזותית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://framestory-dee049c1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://framestory-dee049c1.zappy5.app/robots.txt
